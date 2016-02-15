@@ -1,0 +1,28 @@
+name: Northern Spy Records x SXSW
+favicon: null
+layout_spectrum: 0.42252868227660656
+typography_spectrum: 0.7119428007863462
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20229499624110758
+  lightness: 0.5663158043753356
+  saturation: 0.32486949232406914
+  rhythmicContrast: 0.3177306146826595
+purpose: []
